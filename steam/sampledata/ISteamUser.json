@@ -47,25 +47,6 @@
     },
     {
       "name": "GetPlayerSummaries",
-      "version": 1,
-      "httpmethod": "GET",
-      "parameters": [
-        {
-          "name": "key",
-          "type": "string",
-          "optional": false,
-          "description": "access key"
-        },
-        {
-          "name": "steamids",
-          "type": "string",
-          "optional": false,
-          "description": "Comma-delimited list of SteamIDs"
-        }
-      ]
-    },
-    {
-      "name": "GetPlayerSummaries",
       "version": 2,
       "httpmethod": "GET",
       "parameters": [

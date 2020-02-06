@@ -3,19 +3,6 @@
   "methods": [
     {
       "name": "GetGlobalAchievementPercentagesForApp",
-      "version": 1,
-      "httpmethod": "GET",
-      "parameters": [
-        {
-          "name": "gameid",
-          "type": "uint64",
-          "optional": false,
-          "description": "GameID to retrieve the achievement percentages for"
-        }
-      ]
-    },
-    {
-      "name": "GetGlobalAchievementPercentagesForApp",
       "version": 2,
       "httpmethod": "GET",
       "parameters": [
@@ -110,31 +97,6 @@
     },
     {
       "name": "GetSchemaForGame",
-      "version": 1,
-      "httpmethod": "GET",
-      "parameters": [
-        {
-          "name": "key",
-          "type": "string",
-          "optional": false,
-          "description": "access key"
-        },
-        {
-          "name": "appid",
-          "type": "uint32",
-          "optional": false,
-          "description": "appid of game"
-        },
-        {
-          "name": "l",
-          "type": "string",
-          "optional": true,
-          "description": "localized langauge to return (english, french, etc.)"
-        }
-      ]
-    },
-    {
-      "name": "GetSchemaForGame",
       "version": 2,
       "httpmethod": "GET",
       "parameters": [
@@ -155,31 +117,6 @@
           "type": "string",
           "optional": true,
           "description": "localized language to return (english, french, etc.)"
-        }
-      ]
-    },
-    {
-      "name": "GetUserStatsForGame",
-      "version": 1,
-      "httpmethod": "GET",
-      "parameters": [
-        {
-          "name": "key",
-          "type": "string",
-          "optional": false,
-          "description": "access key"
-        },
-        {
-          "name": "steamid",
-          "type": "uint64",
-          "optional": false,
-          "description": "SteamID of user"
-        },
-        {
-          "name": "appid",
-          "type": "uint32",
-          "optional": false,
-          "description": "appid of game"
         }
       ]
     },

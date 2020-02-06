@@ -1,0 +1,25 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561197964628349",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "Xiaomi",
+        "profileurl": "https://steamcommunity.com/id/xiaomi/",
+        "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/96/9658ba67addb2c0f8b4da2bdac820d6e8e877112.jpg",
+        "avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/96/9658ba67addb2c0f8b4da2bdac820d6e8e877112_medium.jpg",
+        "avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/96/9658ba67addb2c0f8b4da2bdac820d6e8e877112_full.jpg",
+        "lastlogoff": 1581352638,
+        "personastate": 3,
+        "realname": "damien",
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1077459014,
+        "personastateflags": 0,
+        "loccountrycode": "JP",
+        "locstatecode": "40",
+        "loccityid": 26138
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "response": {
+    "total_count": 1,
+    "games": [
+      {
+        "appid": 212680,
+        "name": "FTL: Faster Than Light",
+        "playtime_2weeks": 385,
+        "playtime_forever": 6937,
+        "img_icon_url": "e8770ddb95fde0804694b116dfe3479f5a65900d",
+        "img_logo_url": "975193db5ca8cc2a4c969cea8f80d93157264ec1",
+        "playtime_windows_forever": 385,
+        "playtime_mac_forever": 122,
+        "playtime_linux_forever": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "playerstats": {
+    "steamID": "76561197964628349",
+    "gameName": "Half-Life 2: Episode Two",
+    "achievements": [
+      {
+        "apiname": "EP2_KILL_POISONANTLION",
+        "achieved": 1,
+        "unlocktime": 1234567
+      }
+    ],
+    "success": true
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "appnews": {
+    "appid": 420,
+    "newsitems": [
+      {
+        "gid": "2597949245043331091",
+        "title": "The whole Half-Life story is free to play on Steam right now",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/rps/2597949245043331091",
+        "is_external_url": true,
+        "author": "contact@rockpapershotgun.com",
+        "contents": "contents",
+        "feedlabel": "Rock, Paper, Shotgun",
+        "date": 1579692666,
+        "feedname": "rps",
+        "feed_type": 0,
+        "appid": 70
+      }
+    ],
+    "count": 1
+  }
+}
