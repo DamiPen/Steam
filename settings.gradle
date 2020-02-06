@@ -1,0 +1,3 @@
+include ':steam'
+include ':app'
+rootProject.name = "SteamApi"
